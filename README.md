@@ -69,7 +69,7 @@ This project uses historical gold price data (2008–2015) to predict the **GLD 
 ```
 gold-price-linear-regression/
 │
-├── Task_03.ipynb           # Full regression pipeline notebook
+├── gold_price.ipynb           # Full regression pipeline notebook
 ├── gold_price_data.csv     # Dataset (2008–2015)
 └── README.md               # Project documentation
 ```
