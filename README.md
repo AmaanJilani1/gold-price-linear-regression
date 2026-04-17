@@ -91,7 +91,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 **3. Launch the notebook**
 ```bash
-jupyter notebook Task_03.ipynb
+jupyter notebook gold_price.ipynb
 ```
 
 ---
